@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<string>Accident</string>
+	<key>B</key>
+	<string>Complaint</string>
+	<key>C</key>
+	<string>Referral</string>
+	<key>D</key>
+	<string>Monitoring</string>
+	<key>E</key>
+	<string>Variance</string>
+	<key>F</key>
+	<string>Follow Up</string>
+	<key>G</key>
+	<string>Unprog Related</string>
+	<key>H</key>
+	<string>Planned</string>
+	<key>I</key>
+	<string>Prog Related</string>
+	<key>J</key>
+	<string>Unprog Other</string>
+	<key>K</key>
+	<string>Prog Other</string>
+	<key>L</key>
+	<string>Other-L</string>
+</dict>
+</plist>

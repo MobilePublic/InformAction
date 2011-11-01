@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>111110</key>
+	<string>Soybean Farming</string>
+	<key>111120</key>
+	<string>Oilseed (except Soybean) Farming</string>
+	<key>111130</key>
+	<string>Dry Pea and Bean Farming</string>
+	<key>111140</key>
+	<string>Wheat Farming</string>
+	<key>111150</key>
+	<string>Corn Farming</string>
+	<key>111160</key>
+	<string>Rice Farming</string>
+	<key>111191</key>
+	<string>Oilseed and Grain Combination Farming</string>
+	<key>111199</key>
+	<string>All Other Grain Farming</string>
+	<key>111211</key>
+	<string>Potato Farming</string>
+	<key>111219</key>
+	<string>Other Vegetable (except Potato) and Melon Farming</string>
+	<key>111310</key>
+	<string>Orange Groves</string>
+	<key>111320</key>
+	<string>Citrus (except Orange) Groves</string>
+	<key>111331</key>
+	<string>Apple Orchards</string>
+	<key>111332</key>
+	<string>Grape Vineyards</string>
+	<key>111333</key>
+	<string>Strawberry Farming</string>
+	<key>111334</key>
+	<string>Berry (except Strawberry) Farming</string>
+	<key>111335</key>
+	<string>Tree Nut Farming</string>
+	<key>111336</key>
+	<string>Fruit and Tree Nut Combination Farming</string>
+	<key>111339</key>
+	<string>Other Noncitrus Fruit Farming</string>
+	<key>111411</key>
+	<string>Mushroom Production</string>
+	<key>111419</key>
+	<string>Other Food Crops Grown Under Cover</string>
+	<key>111421</key>
+	<string>Nursery and Tree Production</string>
+	<key>111422</key>
+	<string>Floriculture Production</string>
+	<key>111910</key>
+	<string>Tobacco Farming</string>
+	<key>111920</key>
+	<string>Cotton Farming</string>
+	<key>111930</key>
+	<string>Sugarcane Farming</string>
+	<key>111940</key>
+	<string>Hay Farming</string>
+	<key>111991</key>
+	<string>Sugar Beet Farming</string>
+	<key>111992</key>
+	<string>Peanut Farming</string>
+	<key>111998</key>
+	<string>All Other Miscellaneous Crop Farming</string>
+	<key>112111</key>
+	<string>Beef Cattle Ranching and Farming</string>
+	<key>112112</key>
+	<string>Cattle Feedlots</string>
+	<key>112120</key>
+	<string>Dairy Cattle and Milk Production</string>
+	<key>112130</key>
+	<string>Dual-Purpose Cattle Ranching and Farming</string>
+	<key>112210</key>
+	<string>Hog and Pig Farming</string>
+	<key>112310</key>
+	<string>Chicken Egg Production</string>
+	<key>112320</key>
+	<string>Broilers and Other Meat Type Chicken Production</string>
+	<key>112330</key>
+	<string>Turkey Production</string>
+	<key>112340</key>
+	<string>Poultry Hatcheries</string>
+	<key>112390</key>
+	<string>Other Poultry Production</string>
+	<key>112410</key>
+	<string>Sheep Farming</string>
+	<key>112420</key>
+	<string>Goat Farming</string>
+	<key>112511</key>
+	<string>Finfish Farming and Fish Hatcheries</string>
+	<key>112512</key>
+	<string>Shellfish Farming</string>
+	<key>112519</key>
+	<string>Other Aquaculture</string>
+	<key>112910</key>
+	<string>Apiculture</string>
+	<key>112920</key>
+	<string>Horses and Other Equine Production</string>
+	<key>112930</key>
+	<string>Fur-Bearing Animal and Rabbit Production</string>
+	<key>112990</key>
+	<string>All Other Animal Production</string>
+	<key>113110</key>
+	<string>Timber Tract Operations</string>
+	<key>113210</key>
+	<string>Forest Nurseries and Gathering of Forest Products</string>
+	<key>113310</key>
+	<string>Logging</string>
+	<key>114111</key>
+	<string>Finfish Fishing</string>
+	<key>114112</key>
+	<string>Shellfish Fishing</string>
+	<key>114119</key>
+	<string>Other Marine Fishing</string>
+	<key>114210</key>
+	<string>Hunting and Trapping</string>
+	<key>115111</key>
+	<string>Cotton Ginning</string>
+	<key>115112  </key>
+	<string>Soil Preparation, Planting, and Cultivating</string>
+	<key>115113  </key>
+	<string>Crop Harvesting, Primarily by Machine</string>
+	<key>115114</key>
+	<string>Postharvest Crop Activities (except Cotton Ginning)</string>
+	<key>115115</key>
+	<string>Farm Labor Contractors and Crew Leaders</string>
+	<key>115116</key>
+	<string>Farm Management Services</string>
+	<key>115210</key>
+	<string>Support Activities for Animal Production</string>
+	<key>115310</key>
+	<string>Support Activities for Forestry</string>
+	<key>211111</key>
+	<string>Crude Petroleum and Natural Gas Extraction</string>
+	<key>211112</key>
+	<string>Natural Gas Liquid Extraction</string>
+	<key>212111</key>
+	<string>Bituminous Coal and Lignite Surface Mining</string>
+	<key>212112</key>
+	<string>Bituminous Coal Underground Mining</string>
+	<key>212113</key>
+	<string>Anthracite Mining</string>
+	<key>212210</key>
+	<string>Iron Ore Mining</string>
+	<key>212221</key>
+	<string>Gold Ore Mining</string>
+	<key>212222</key>
+	<string>Silver Ore Mining</string>
+	<key>212231</key>
+	<string>Lead Ore and Zinc Ore Mining</string>
+	<key>212234</key>
+	<string>Copper Ore and Nickel Ore Mining</string>
+	<key>212291</key>
+	<string>Uranium-Radium-Vanadium Ore Mining</string>
+	<key>212299</key>
+	<string>All Other Metal Ore Mining</string>
+	<key>212311</key>
+	<string>Dimension Stone Mining and Quarrying</string>
+	<key>212312</key>
+	<string>Crushed and Broken Limestone Mining and Quarrying</string>
+	<key>212313</key>
+	<string>Crushed and Broken Granite Mining and Quarrying</string>
+	<key>212319</key>
+	<string>Other Crushed and Broken Stone Mining and Quarrying</string>
+	<key>212321</key>
+	<string>Construction Sand and Gravel Mining</string>
+	<key>212322</key>
+	<string>Industrial Sand Mining</string>
+	<key>212324</key>
+	<string>Kaolin and Ball Clay Mining</string>
+	<key>212325</key>
+	<string>Clay and Ceramic and Refractory Minerals Mining</string>
+	<key>212391  </key>
+	<string>Potash, Soda, and Borate Mineral Mining</string>
+	<key>212392</key>
+	<string>Phosphate Rock Mining</string>
+	<key>212393</key>
+	<string>Other Chemical and Fertilizer Mineral Mining</string>
+	<key>212399</key>
+	<string>All Other Nonmetallic Mineral Mining</string>
+	<key>213111</key>
+	<string>Drilling Oil and Gas Wells</string>
+	<key>213112</key>
+	<string>Support Activities for Oil and Gas Operations</string>
+	<key>213113</key>
+	<string>Support Activities for Coal Mining</string>
+	<key>213114</key>
+	<string>Support Activities for Metal Mining</string>
+	<key>213115</key>
+	<string>Support Activities for Nonmetallic Minerals (except Fuels)</string>
+	<key>221111</key>
+	<string>Hydroelectric Power Generation</string>
+	<key>221112</key>
+	<string>Fossil Fuel Electric Power Generation</string>
+	<key>221113</key>
+	<string>Nuclear Electric Power Generation</string>
+	<key>221119</key>
+	<string>Other Electric Power Generation</string>
+	<key>221121</key>
+	<string>Electric Bulk Power Transmission and Control</string>
+	<key>221122</key>
+	<string>Electric Power Distribution</string>
+	<key>221210</key>
+	<string>Natural Gas Distribution</string>
+	<key>221310</key>
+	<string>Water Supply and Irrigation Systems</string>
+	<key>221320</key>
+	<string>Sewage Treatment Facilities</string>
+	<key>221330</key>
+	<string>Steam and Air-Conditioning Supply</string>
+	<key>236115</key>
+	<string>New Single-Family Housing Construction (except Operative Builders)</string>
+	<key>236116</key>
+	<string>New Multifamily Housing Construction (except Operative Builders)</string>
+	<key>236117</key>
+	<string>New Housing Operative Builders</string>
+	<key>236118</key>
+	<string>Residential Remodelers</string>
+	<key>236210</key>
+	<string>Industrial Building Construction</string>
+	<key>236220</key>
+	<string>Commercial and Institutional Building Construction</string>
+	<key>237110</key>
+	<string>Water and Sewer Line and Related Structures Construction</string>
+	<key>237120</key>
+	<string>Oil and Gas Pipeline and Related Structures Construction</string>
+	<key>237130</key>
+	<string>Power and Communication Line and Related Structures Construction</string>
+	<key>237210</key>
+	<string>Land Subdivision</string>
+	<key>237310  </key>
+	<string>Highway, Street, and Bridge Construction</string>
+	<key>237990</key>
+	<string>Other Heavy and Civil Engineering Construction</string>
+	<key>238110</key>
+	<string>Poured Concrete Foundation and Structure Contractors</string>
+	<key>238120</key>
+	<string>Structural Steel and Precast Concrete Contractors</string>
+	<key>238130</key>
+	<string>Framing Contractors</string>
+	<key>238140</key>
+	<string>Masonry Contractors</string>
+	<key>238150</key>
+	<string>Glass and Glazing Contractors</string>
+	<key>238160</key>
+	<string>Roofing Contractors</string>
+	<key>238170</key>
+	<string>Siding Contractors</string>
+	<key>238190  </key>
+	<string>Other Foundation, Structure, and Building Exterior Contractors</string>
+	<key>238210</key>
+	<string>Electrical Contractors and Other Wiring Installation Contractors</string>
+	<key>238220  </key>
+	<string>Plumbing, Heating, and Air-Conditioning Contractors</string>
+	<key>238290</key>
+	<string>Other Building Equipment Contractors</string>
+	<key>238310</key>
+	<string>Drywall and Insulation Contractors</string>
+	<key>238320</key>
+	<string>Painting and Wall Covering Contractors</string>
+	<key>238330</key>
+	<string>Flooring Contractors</string>
+	<key>238340</key>
+	<string>Tile and Terrazzo Contractors</string>
+	<key>238350</key>
+	<string>Finish Carpentry Contractors</string>
+	<key>238390</key>
+	<string>Other Building Finishing Contractors</string>
+	<key>238910</key>
+	<string>Site Preparation Contractors</string>
+	<key>238990</key>
+	<string>All Other Specialty Trade Contractors</string>
+	<key>311111</key>
+	<string>Dog and Cat Food Manufacturing</string>
+	<key>311119</key>
+	<string>Other Animal Food Manufacturing</string>
+	<key>311211</key>
+	<string>Flour Milling</string>
+	<key>311212</key>
+	<string>Rice Milling</string>
+	<key>311213</key>
+	<string>Malt Manufacturing</string>
+	<key>311221</key>
+	<string>Wet Corn Milling</string>
+	<key>311222</key>
+	<string>Soybean Processing</string>
+	<key>311223</key>
+	<string>Other Oilseed Processing</string>
+	<key>311225</key>
+	<string>Fats and Oils Refining and Blending</string>
+	<key>311230</key>
+	<string>Breakfast Cereal Manufacturing</string>
+	<key>311311</key>
+	<string>Sugarcane Mills</string>
+	<key>311312</key>
+	<string>Cane Sugar Refining</string>
+	<key>311313</key>
+	<string>Beet Sugar Manufacturing</string>
+	<key>311320</key>
+	<string>Chocolate and Confectionery Manufacturing from Cacao Beans</string>
+	<key>311330</key>
+	<string>Confectionery Manufacturing from Purchased Chocolate</string>
+	<key>311340</key>
+	<string>Nonchocolate Confectionery Manufacturing</string>
+	<key>311411  </key>
+	<string>Frozen Fruit, Juice, and Vegetable Manufacturing</string>
+	<key>311412</key>
+	<string>Frozen Specialty Food Manufacturing</string>
+	<key>311421</key>
+	<string>Fruit and Vegetable Canning</string>
+	<key>311422</key>
+	<string>Specialty Canning</string>
+	<key>311423</key>
+	<string>Dried and Dehydrated Food Manufacturing</string>
+	<key>311511</key>
+	<string>Fluid Milk Manufacturing</string>
+	<key>311512</key>
+	<string>Creamery Butter Manufacturing</string>
+	<key>311513</key>
+	<string>Cheese Manufacturing</string>
+	<key>311514  </key>
+	<string>Dry, Condensed, and Evaporated Dairy Product Manufacturing</string>
+	<key>311520</key>
+	<string>Ice Cream and Frozen Dessert Manufacturing</string>
+	<key>311611</key>
+	<string>Animal (except Poultry) Slaughtering</string>
+	<key>311612</key>
+	<string>Meat Processed from Carcasses</string>
+	<key>311613</key>
+	<string>Rendering and Meat Byproduct Processing</string>
+	<key>311615</key>
+	<string>Poultry Processing</string>
+	<key>311711</key>
+	<string>Seafood Canning</string>
+	<key>311712</key>
+	<string>Fresh and Frozen Seafood Processing</string>
+	<key>311811</key>
+	<string>Retail Bakeries</string>
+	<key>311812</key>
+	<string>Commercial Bakeries</string>
+	<key>311813  </key>
+	<string>Frozen Cakes, Pies, and Other Pastries Manufacturing</string>
+	<key>311821</key>
+	<string>Cookie and Cracker Manufacturing</string>
+	<key>311822</key>
+	<string>Flour Mixes and Dough Manufacturing from Purchased Flour</string>
+	<key>311823</key>
+	<string>Dry Pasta Manufacturing</string>
+	<key>311830</key>
+	<string>Tortilla Manufacturing</string>
+	<key>311911</key>
+	<string>Roasted Nuts and Peanut Butter Manufacturing</string>
+	<key>311919</key>
+	<string>Other Snack Food Manufacturing</string>
+	<key>311920</key>
+	<string>Coffee and Tea Manufacturing</string>
+	<key>311930</key>
+	<string>Flavoring Syrup and Concentrate Manufacturing</string>
+	<key>311941  </key>
+	<string>Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing</string>
+	<key>311942</key>
+	<string>Spice and Extract Manufacturing</string>
+	<key>311991</key>
+	<string>Perishable Prepared Food Manufacturing</string>
+	<key>311999</key>
+	<string>All Other Miscellaneous Food Manufacturing</string>
+	<key>312111</key>
+	<string>Soft Drink Manufacturing</string>
+	<key>312112</key>
+	<string>Bottled Water Manufacturing</string>
+	<key>312113</key>
+	<string>Ice Manufacturing</string>
+	<key>312120</key>
+	<string>Breweries</string>
+	<key>312130</key>
+	<string>Wineries</string>
+	<key>312140</key>
+	<string>Distilleries</string>
+	<key>312210</key>
+	<string>Tobacco Stemming and Redrying</string>
+	<key>312221</key>
+	<string>Cigarette Manufacturing</string>
+	<key>312229</key>
+	<string>Other Tobacco Product Manufacturing</string>
+	<key>313111</key>
+	<string>Yarn Spinning Mills</string>
+	<key>313112  </key>
+	<string>Yarn Texturizing, Throwing, and Twisting Mills</string>
+	<key>313113</key>
+	<string>Thread Mills</string>
+	<key>313210</key>
+	<string>Broadwoven Fabric Mills</string>
+	<key>313221</key>
+	<string>Narrow Fabric Mills</string>
+	<key>313222</key>
+	<string>Schiffli Machine Embroidery</string>
+	<key>313230</key>
+	<string>Nonwoven Fabric Mills</string>
+	<key>313241</key>
+	<string>Weft Knit Fabric Mills</string>
+	<key>313249</key>
+	<string>Other Knit Fabric and Lace Mills</string>
+	<key>313311</key>
+	<string>Broadwoven Fabric Finishing Mills</string>
+	<key>313312</key>
+	<string>Textile and Fabric Finishing (except Broadwoven Fabric) Mills</string>
+	<key>313320</key>
+	<string>Fabric Coating Mills</string>
+	<key>314110</key>
+	<string>Carpet and Rug Mills</string>
+	<key>314121</key>
+	<string>Curtain and Drapery Mills</string>
+	<key>314129</key>
+	<string>Other Household Textile Product Mills</string>
+	<key>314911</key>
+	<string>Textile Bag Mills</string>
+	<key>314912</key>
+	<string>Canvas and Related Product Mills</string>
+	<key>314991  </key>
+	<string>Rope, Cordage, and Twine Mills</string>
+	<key>314992</key>
+	<string>Tire Cord and Tire Fabric Mills</string>
+	<key>314999</key>
+	<string>All Other Miscellaneous Textile Product Mills</string>
+	<key>315111</key>
+	<string>Sheer Hosiery Mills</string>
+	<key>315119</key>
+	<string>Other Hosiery and Sock Mills</string>
+	<key>315191</key>
+	<string>Outerwear Knitting Mills</string>
+	<key>315192</key>
+	<string>Underwear and Nightwear Knitting Mills</string>
+	<key>315211</key>
+	<string>Men's and Boys' Cut and Sew Apparel Contractors</string>
+	<key>315212 </key>
+	<string>Women's, Girls', and Infants' Cut and Sew Apparel Contractors</string>
+	<key>315221</key>
+	<string>Men's and Boys' Cut and Sew Underwear and Nightwear Manufacturing</string>
+	<key>315222  </key>
+	<string>Men's and Boys' Cut and Sew Suit, Coat, and Overcoat Manufacturing</string>
+	<key>315223</key>
+	<string>Men's and Boys' Cut and Sew Shirt (except Work Shirt) Manufacturing</string>
+	<key>315224  </key>
+	<string>Men's and Boys' Cut and Sew Trouser, Slack, and Jean Manufacturing</string>
+	<key>315225</key>
+	<string>Men's and Boys' Cut and Sew Work Clothing Manufacturing</string>
+	<key>315228</key>
+	<string>Men's and Boys' Cut and Sew Other Outerwear Manufacturing</string>
+	<key>315231  </key>
+	<string>Women's and Girls' Cut and Sew Lingerie, Loungewear, and Nightwear Manufacturing</string>
+	<key>315232</key>
+	<string>Women's and Girls' Cut and Sew Blouse and Shirt Manufacturing</string>
+	<key>315233</key>
+	<string>Women's and Girls' Cut and Sew Dress Manufacturing</string>
+	<key>315234  </key>
+	<string>Women's and Girls' Cut and Sew Suit, Coat, Tailored Jacket, and Skirt Manufacturing</string>
+	<key>315239</key>
+	<string>Women's and Girls' Cut and Sew Other Outerwear Manufacturing</string>
+	<key>315291</key>
+	<string>Infants' Cut and Sew Apparel Manufacturing</string>
+	<key>315292</key>
+	<string>Fur and Leather Apparel Manufacturing</string>
+	<key>315299</key>
+	<string>All Other Cut and Sew Apparel Manufacturing</string>
+	<key>315991  </key>
+	<string>Hat, Cap, and Millinery Manufacturing</string>
+	<key>315992</key>
+	<string>Glove and Mitten Manufacturing</string>
+	<key>315993</key>
+	<string>Men's and Boys' Neckwear Manufacturing</string>
+	<key>315999</key>
+	<string>Other Apparel Accessories and Other Apparel Manufacturing</string>
+	<key>316110</key>
+	<string>Leather and Hide Tanning and Finishing</string>
+	<key>316211</key>
+	<string>Rubber and Plastics Footwear Manufacturing</string>
+	<key>316212</key>
+	<string>House Slipper Manufacturing</string>
+	<key>316213</key>
+	<string>Men's Footwear (except Athletic) Manufacturing</string>
+	<key>316214</key>
+	<string>Women's Footwear (except Athletic) Manufacturing</string>
+	<key>316219</key>
+	<string>Other Footwear Manufacturing</string>
+	<key>316991</key>
+	<string>Luggage Manufacturing</string>
+	<key>316992</key>
+	<string>Women's Handbag and Purse Manufacturing</string>
+	<key>316993</key>
+	<string>Personal Leather Good (except Women's Handbag and Purse) Manufacturing</string>
+	<key>316999</key>
+	<string>All Other Leather Good and Allied Product Manufacturing</string>
+	<key>321113</key>
+	<string>Sawmills</string>
+	<key>321114</key>
+	<string>Wood Preservation</string>
+	<key>321211</key>
+	<string>Hardwood Veneer and Plywood Manufacturing</string>
+	<key>321212</key>
+	<string>Softwood Veneer and Plywood Manufacturing</string>
+	<key>321213</key>
+	<string>Engineered Wood Member (except Truss) Manufacturing</string>
+	<key>321214</key>
+	<string>Truss Manufacturing</string>
+	<key>321219</key>
+	<string>Reconstituted Wood Product Manufacturing</string>
+	<key>321911</key>
+	<string>Wood Window and Door Manufacturing</string>
+	<key>321912  </key>
+	<string>Cut Stock, Resawing Lumber, and Planing</string>
+	<key>321918</key>
+	<string>Other Millwork (including Flooring)</string>
+	<key>321920</key>
+	<string>Wood Container and Pallet Manufacturing</string>
+	<key>321991</key>
+	<string>Manufactured Home (Mobile Home) Manufacturing</string>
+	<key>321992</key>
+	<string>Prefabricated Wood Building Manufacturing</string>
+	<key>321999</key>
+	<string>All Other Miscellaneous Wood Product Manufacturing</string>
+	<key>322110</key>
+	<string>Pulp Mills</string>
+	<key>322121</key>
+	<string>Paper (except Newsprint) Mills</string>
+	<key>322122</key>
+	<string>Newsprint Mills</string>
+	<key>322130</key>
+	<string>Paperboard Mills</string>
+	<key>322211</key>
+	<string>Corrugated and Solid Fiber Box Manufacturing</string>
+	<key>322212</key>
+	<string>Folding Paperboard Box Manufacturing</string>
+	<key>322213</key>
+	<string>Setup Paperboard Box Manufacturing</string>
+	<key>322214  </key>
+	<string>Fiber Can, Tube, Drum, and Similar Products Manufacturing</string>
+	<key>322215</key>
+	<string>Nonfolding Sanitary Food Container Manufacturing</string>
+	<key>322221</key>
+	<string>Coated and Laminated Packaging Paper Manufacturing</string>
+	<key>322222</key>
+	<string>Coated and Laminated Paper Manufacturing</string>
+	<key>322223  </key>
+	<string>Coated Paper Bag and Pouch Manufacturing</string>
+	<key>322224</key>
+	<string>Uncoated Paper and Multiwall Bag Manufacturing</string>
+	<key>322225</key>
+	<string>Laminated Aluminum Foil Manufacturing for Flexible Packaging Uses</string>
+	<key>322226</key>
+	<string>Surface-Coated Paperboard Manufacturing</string>
+	<key>322231</key>
+	<string>Die-Cut Paper and Paperboard Office Supplies Manufacturing</string>
+	<key>322232</key>
+	<string>Envelope Manufacturing</string>
+	<key>322233  </key>
+	<string>Stationery, Tablet, and Related Product Manufacturing</string>
+	<key>322291</key>
+	<string>Sanitary Paper Product Manufacturing</string>
+	<key>322299</key>
+	<string>All Other Converted Paper Product Manufacturing</string>
+	<key>323110</key>
+	<string>Commercial Lithographic Printing</string>
+	<key>323111</key>
+	<string>Commercial Gravure Printing</string>
+	<key>323112</key>
+	<string>Commercial Flexographic Printing</string>
+	<key>323113</key>
+	<string>Commercial Screen Printing</string>
+	<key>323114</key>
+	<string>Quick Printing</string>
+	<key>323115</key>
+	<string>Digital Printing</string>
+	<key>323116</key>
+	<string>Manifold Business Forms Printing</string>
+	<key>323117</key>
+	<string>Books Printing</string>
+	<key>323118  </key>
+	<string>Blankbook, Looseleaf Binders, and Devices Manufacturing</string>
+	<key>323119</key>
+	<string>Other Commercial Printing</string>
+	<key>323121</key>
+	<string>Tradebinding and Related Work</string>
+	<key>323122</key>
+	<string>Prepress Services</string>
+	<key>324110</key>
+	<string>Petroleum Refineries</string>
+	<key>324121</key>
+	<string>Asphalt Paving Mixture and Block Manufacturing</string>
+	<key>324122</key>
+	<string>Asphalt Shingle and Coating Materials Manufacturing</string>
+	<key>324191</key>
+	<string>Petroleum Lubricating Oil and Grease Manufacturing</string>
+	<key>324199</key>
+	<string>All Other Petroleum and Coal Products Manufacturing</string>
+	<key>325110</key>
+	<string>Petrochemical Manufacturing</string>
+	<key>325120</key>
+	<string>Industrial Gas Manufacturing</string>
+	<key>325131</key>
+	<string>Inorganic Dye and Pigment Manufacturing</string>
+	<key>325132</key>
+	<string>Synthetic Organic Dye and Pigment Manufacturing</string>
+	<key>325181</key>
+	<string>Alkalies and Chlorine Manufacturing</string>
+	<key>325182</key>
+	<string>Carbon Black Manufacturing</string>
+	<key>325188</key>
+	<string>All Other Basic Inorganic Chemical Manufacturing</string>
+	<key>325191</key>
+	<string>Gum and Wood Chemical Manufacturing</string>
+	<key>325192</key>
+	<string>Cyclic Crude and Intermediate Manufacturing</string>
+	<key>325193</key>
+	<string>Ethyl Alcohol Manufacturing</string>
+	<key>325199</key>
+	<string>All Other Basic Organic Chemical Manufacturing</string>
+	<key>325211</key>
+	<string>Plastics Material and Resin Manufacturing</string>
+	<key>325212</key>
+	<string>Synthetic Rubber Manufacturing</string>
+	<key>325221</key>
+	<string>Cellulosic Organic Fiber Manufacturing</string>
+	<key>325222</key>
+	<string>Noncellulosic Organic Fiber Manufacturing</string>
+	<key>325311</key>
+	<string>Nitrogenous Fertilizer Manufacturing</string>
+	<key>325312</key>
+	<string>Phosphatic Fertilizer Manufacturing</string>
+	<key>325314</key>
+	<string>Fertilizer (Mixing Only) Manufacturing</string>
+	<key>325320</key>
+	<string>Pesticide and Other Agricultural Chemical Manufacturing</string>
+	<key>325411</key>
+	<string>Medicinal and Botanical Manufacturing</string>
+	<key>325412</key>
+	<string>Pharmaceutical Preparation Manufacturing</string>
+	<key>325413</key>
+	<string>In-Vitro Diagnostic Substance Manufacturing</string>
+	<key>325414</key>
+	<string>Biological Product (except Diagnostic) Manufacturing</string>
+	<key>325510</key>
+	<string>Paint and Coating Manufacturing</string>
+	<key>325520</key>
+	<string>Adhesive Manufacturing</string>
+	<key>325611</key>
+	<string>Soap and Other Detergent Manufacturing</string>
+	<key>325612</key>
+	<string>Polish and Other Sanitation Good Manufacturing</string>
+	<key>325613</key>
+	<string>Surface Active Agent Manufacturing</string>
+	<key>325620</key>
+	<string>Toilet Preparation Manufacturing</string>
+	<key>325910</key>
+	<string>Printing Ink Manufacturing</string>
+	<key>325920</key>
+	<string>Explosives Manufacturing</string>
+	<key>325991</key>
+	<string>Custom Compounding of Purchased Resins</string>
+	<key>325992  </key>
+	<string>Photographic Film, Paper, Plate, and Chemical Manufacturing</string>
+	<key>325998</key>
+	<string>All Other Miscellaneous Chemical Product and Preparation Manufacturing</string>
+	<key>326111</key>
+	<string>Plastics Bag and Pouch Manufacturing</string>
+	<key>326112</key>
+	<string>Plastics Packaging Film and Sheet (including Laminated) Manufacturing</string>
+	<key>326113</key>
+	<string>Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing</string>
+	<key>326121</key>
+	<string>Unlaminated Plastics Profile Shape Manufacturing</string>
+	<key>326122</key>
+	<string>Plastics Pipe and Pipe Fitting Manufacturing</string>
+	<key>326130  </key>
+	<string>Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing</string>
+	<key>326140</key>
+	<string>Polystyrene Foam Product Manufacturing</string>
+	<key>326150</key>
+	<string>Urethane and Other Foam Product (except Polystyrene) Manufacturing</string>
+	<key>326160</key>
+	<string>Plastics Bottle Manufacturing</string>
+	<key>326191</key>
+	<string>Plastics Plumbing Fixture Manufacturing</string>
+	<key>326192</key>
+	<string>Resilient Floor Covering Manufacturing</string>
+	<key>326199</key>
+	<string>All Other Plastics Product Manufacturing</string>
+	<key>326211</key>
+	<string>Tire Manufacturing (except Retreading)</string>
+	<key>326212</key>
+	<string>Tire Retreading</string>
+	<key>326220</key>
+	<string>Rubber and Plastics Hoses and Belting Manufacturing</string>
+	<key>326291</key>
+	<string>Rubber Product Manufacturing for Mechanical Use</string>
+	<key>326299</key>
+	<string>All Other Rubber Product Manufacturing</string>
+	<key>327111</key>
+	<string>Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing</string>
+	<key>327112  </key>
+	<string>Vitreous China, Fine Earthenware, and Other Pottery Product Manufacturing</string>
+	<key>327113</key>
+	<string>Porcelain Electrical Supply Manufacturing</string>
+	<key>327121</key>
+	<string>Brick and Structural Clay Tile Manufacturing</string>
+	<key>327122</key>
+	<string>Ceramic Wall and Floor Tile Manufacturing</string>
+	<key>327123</key>
+	<string>Other Structural Clay Product Manufacturing</string>
+	<key>327124</key>
+	<string>Clay Refractory Manufacturing</string>
+	<key>327125</key>
+	<string>Nonclay Refractory Manufacturing</string>
+	<key>327211</key>
+	<string>Flat Glass Manufacturing</string>
+	<key>327212</key>
+	<string>Other Pressed and Blown Glass and Glassware Manufacturing</string>
+	<key>327213</key>
+	<string>Glass Container Manufacturing</string>
+	<key>327215</key>
+	<string>Glass Product Manufacturing Made of Purchased Glass</string>
+	<key>327310</key>
+	<string>Cement Manufacturing</string>
+	<key>327320</key>
+	<string>Ready-Mix Concrete Manufacturing</string>
+	<key>327331</key>
+	<string>Concrete Block and Brick Manufacturing</string>
+	<key>327332</key>
+	<string>Concrete Pipe Manufacturing</string>
+	<key>327390</key>
+	<string>Other Concrete Product Manufacturing</string>
+	<key>327410</key>
+	<string>Lime Manufacturing</string>
+	<key>327420</key>
+	<string>Gypsum Product Manufacturing</string>
+	<key>327910</key>
+	<string>Abrasive Product Manufacturing</string>
+	<key>327991</key>
+	<string>Cut Stone and Stone Product Manufacturing</string>
+	<key>327992</key>
+	<string>Ground or Treated Mineral and Earth Manufacturing</string>
+	<key>327993</key>
+	<string>Mineral Wool Manufacturing</string>
+	<key>327999</key>
+	<string>All Other Miscellaneous Nonmetallic Mineral Product Manufacturing</string>
+	<key>331111</key>
+	<string>Iron and Steel Mills</string>
+	<key>331112</key>
+	<string>Electrometallurgical Ferroalloy Product Manufacturing</string>
+	<key>331210</key>
+	<string>Iron and Steel Pipe and Tube Manufacturing from Purchased Steel</string>
+	<key>331221</key>
+	<string>Rolled Steel Shape Manufacturing</string>
+	<key>331222</key>
+	<string>Steel Wire Drawing</string>
+	<key>331311</key>
+	<string>Alumina Refining</string>
+	<key>331312</key>
+	<string>Primary Aluminum Production</string>
+	<key>331314</key>
+	<string>Secondary Smelting and Alloying of Aluminum</string>
+	<key>331315 </key>
+	<string> Aluminum Sheet, Plate, and Foil Manufacturing</string>
+	<key>331316</key>
+	<string>Aluminum Extruded Product Manufacturing</string>
+	<key>331319</key>
+	<string>Other Aluminum Rolling and Drawing</string>
+	<key>331411</key>
+	<string>Primary Smelting and Refining of Copper</string>
+	<key>331419</key>
+	<string>Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)</string>
+	<key>331421  </key>
+	<string>Copper Rolling, Drawing, and Extruding</string>
+	<key>331422</key>
+	<string>Copper Wire (except Mechanical) Drawing</string>
+	<key>331423  </key>
+	<string>Secondary Smelting, Refining, and Alloying of Copper</string>
+	<key>331491  </key>
+	<string>Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding</string>
+	<key>331492  </key>
+	<string>Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)</string>
+	<key>331511</key>
+	<string>Iron Foundries</string>
+	<key>331512</key>
+	<string>Steel Investment Foundries</string>
+	<key>331513</key>
+	<string>Steel Foundries (except Investment)</string>
+	<key>331521</key>
+	<string>Aluminum Die-Casting Foundries</string>
+	<key>331522</key>
+	<string>Nonferrous (except Aluminum) Die-Casting Foundries</string>
+	<key>331524</key>
+	<string>Aluminum Foundries (except Die-Casting)</string>
+	<key>331525</key>
+	<string>Copper Foundries (except Die-Casting)</string>
+	<key>331528</key>
+	<string>Other Nonferrous Foundries (except Die-Casting)</string>
+	<key>332111</key>
+	<string>Iron and Steel Forging</string>
+	<key>332112</key>
+	<string>Nonferrous Forging</string>
+	<key>332114</key>
+	<string>Custom Roll Forming</string>
+	<key>332115</key>
+	<string>Crown and Closure Manufacturing</string>
+	<key>332116</key>
+	<string>Metal Stamping</string>
+	<key>332117</key>
+	<string>Powder Metallurgy Part Manufacturing</string>
+	<key>332211</key>
+	<string>Cutlery and Flatware (except Precious) Manufacturing</string>
+	<key>332212</key>
+	<string>Hand and Edge Tool Manufacturing</string>
+	<key>332213</key>
+	<string>Saw Blade and Handsaw Manufacturing</string>
+	<key>332214  </key>
+	<string>Kitchen Utensil, Pot, and Pan Manufacturing</string>
+	<key>332311</key>
+	<string>Prefabricated Metal Building and Component Manufacturing</string>
+	<key>332312</key>
+	<string>Fabricated Structural Metal Manufacturing</string>
+	<key>332313</key>
+	<string>Plate Work Manufacturing</string>
+	<key>332321</key>
+	<string>Metal Window and Door Manufacturing</string>
+	<key>332322</key>
+	<string>Sheet Metal Work Manufacturing</string>
+	<key>332323</key>
+	<string>Ornamental and Architectural Metal Work Manufacturing</string>
+	<key>332410</key>
+	<string>Power Boiler and Heat Exchanger Manufacturing</string>
+	<key>332420</key>
+	<string>Metal Tank (Heavy Gauge) Manufacturing</string>
+	<key>332431</key>
+	<string>Metal Can Manufacturing</string>
+	<key>332439</key>
+	<string>Other Metal Container Manufacturing</string>
+	<key>332510</key>
+	<string>Hardware Manufacturing</string>
+	<key>332611</key>
+	<string>Spring (Heavy Gauge) Manufacturing</string>
+	<key>332612</key>
+	<string>Spring (Light Gauge) Manufacturing</string>
+	<key>332618</key>
+	<string>Other Fabricated Wire Product Manufacturing</string>
+	<key>332710</key>
+	<string>Machine Shops</string>
+	<key>332721</key>
+	<string>Precision Turned Product Manufacturing</string>
+	<key>332722  </key>
+	<string>Bolt, Nut, Screw, Rivet, and Washer Manufacturing</string>
+	<key>332811</key>
+	<string>Metal Heat Treating</string>
+	<key>332812  </key>
+	<string>Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers</string>
+	<key>332813  </key>
+	<string>Electroplating, Plating, Polishing, Anodizing, and Coloring</string>
+	<key>332911</key>
+	<string>Industrial Valve Manufacturing</string>
+	<key>332912</key>
+	<string>Fluid Power Valve and Hose Fitting Manufacturing</string>
+	<key>332913</key>
+	<string>Plumbing Fixture Fitting and Trim Manufacturing</string>
+	<key>332919</key>
+	<string>Other Metal Valve and Pipe Fitting Manufacturing</string>
+	<key>332991</key>
+	<string>Ball and Roller Bearing Manufacturing</string>
+	<key>332992</key>
+	<string>Small Arms Ammunition Manufacturing</string>
+	<key>332993</key>
+	<string>Ammunition (except Small Arms) Manufacturing</string>
+	<key>332994</key>
+	<string>Small Arms Manufacturing</string>
+	<key>332995</key>
+	<string>Other Ordnance and Accessories Manufacturing</string>
+	<key>332996</key>
+	<string>Fabricated Pipe and Pipe Fitting Manufacturing</string>
+	<key>332997</key>
+	<string>Industrial Pattern Manufacturing</string>
+	<key>332998</key>
+	<string>Enameled Iron and Metal Sanitary Ware Manufacturing</string>
+	<key>332999</key>
+	<string>All Other Miscellaneous Fabricated Metal Product Manufacturing</string>
+	<key>333111</key>
+	<string>Farm Machinery and Equipment Manufacturing</string>
+	<key>333112</key>
+	<string>Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing</string>
+	<key>333120</key>
+	<string>Construction Machinery Manufacturing</string>
+	<key>333131</key>
+	<string>Mining Machinery and Equipment Manufacturing</string>
+	<key>333132</key>
+	<string>Oil and Gas Field Machinery and Equipment Manufacturing</string>
+	<key>333210</key>
+	<string>Sawmill and Woodworking Machinery Manufacturing</string>
+	<key>333220</key>
+	<string>Plastics and Rubber Industry Machinery Manufacturing</string>
+	<key>333291</key>
+	<string>Paper Industry Machinery Manufacturing</string>
+	<key>333292</key>
+	<string>Textile Machinery Manufacturing</string>
+	<key>333293</key>
+	<string>Printing Machinery and Equipment Manufacturing</string>
+	<key>333294</key>
+	<string>Food Product Machinery Manufacturing</string>
+	<key>333295</key>
+	<string>Semiconductor Machinery Manufacturing</string>
+	<key>333298</key>
+	<string>All Other Industrial Machinery Manufacturing</string>
+	<key>333311</key>
+	<string>Automatic Vending Machine Manufacturing</string>
+	<key>333312  </key>
+	<string>Commercial Laundry, Drycleaning, and Pressing Machine Manufacturing</string>
+	<key>333313</key>
+	<string>Office Machinery Manufacturing</string>
+	<key>333314</key>
+	<string>Optical Instrument and Lens Manufacturing</string>
+	<key>333315</key>
+	<string>Photographic and Photocopying Equipment Manufacturing</string>
+	<key>333319</key>
+	<string>Other Commercial and Service Industry Machinery Manufacturing</string>
+	<key>333411</key>
+	<string>Air Purification Equipment Manufacturing</string>
+	<key>333412</key>
+	<string>Industrial and Commercial Fan and Blower Manufacturing</string>
+	<key>333414</key>
+	<string>Heating Equipment (except Warm Air Furnaces) Manufacturing</string>
+	<key>333415</key>
+	<string>Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing</string>
+	<key>333511</key>
+	<string>Industrial Mold Manufacturing</string>
+	<key>333512</key>
+	<string>Machine Tool (Metal Cutting Types) Manufacturing</string>
+	<key>333513</key>
+	<string>Machine Tool (Metal Forming Types) Manufacturing</string>
+	<key>333514  </key>
+	<string>Special Die and Tool, Die Set, Jig, and Fixture Manufacturing</string>
+	<key>333515</key>
+	<string>Cutting Tool and Machine Tool Accessory Manufacturing</string>
+	<key>333516</key>
+	<string>Rolling Mill Machinery and Equipment Manufacturing</string>
+	<key>333518</key>
+	<string>Other Metalworking Machinery Manufacturing</string>
+	<key>333611</key>
+	<string>Turbine and Turbine Generator Set Units Manufacturing</string>
+	<key>333612  </key>
+	<string>Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing</string>
+	<key>333613</key>
+	<string>Mechanical Power Transmission Equipment Manufacturing</string>
+	<key>333618</key>
+	<string>Other Engine Equipment Manufacturing</string>
+	<key>333911</key>
+	<string>Pump and Pumping Equipment Manufacturing</string>
+	<key>333912</key>
+	<string>Air and Gas Compressor Manufacturing</string>
+	<key>333913</key>
+	<string>Measuring and Dispensing Pump Manufacturing</string>
+	<key>333921</key>
+	<string>Elevator and Moving Stairway Manufacturing</string>
+	<key>333922</key>
+	<string>Conveyor and Conveying Equipment Manufacturing</string>
+	<key>333923  </key>
+	<string>Overhead Traveling Crane, Hoist, and Monorail System Manufacturing</string>
+	<key>333924 </key>
+	<string> Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing</string>
+	<key>333991</key>
+	<string>Power-Driven Handtool Manufacturing</string>
+	<key>333992</key>
+	<string>Welding and Soldering Equipment Manufacturing</string>
+	<key>333993</key>
+	<string>Packaging Machinery Manufacturing</string>
+	<key>333994</key>
+	<string>Industrial Process Furnace and Oven Manufacturing</string>
+	<key>333995</key>
+	<string>Fluid Power Cylinder and Actuator Manufacturing</string>
+	<key>333996</key>
+	<string>Fluid Power Pump and Motor Manufacturing</string>
+	<key>333997</key>
+	<string>Scale and Balance Manufacturing</string>
+	<key>333999</key>
+	<string>All Other Miscellaneous General Purpose Machinery Manufacturing</string>
+	<key>334111</key>
+	<string>Electronic Computer Manufacturing</string>
+	<key>334112</key>
+	<string>Computer Storage Device Manufacturing</string>
+	<key>334113</key>
+	<string>Computer Terminal Manufacturing</string>
+	<key>334119</key>
+	<string>Other Computer Peripheral Equipment Manufacturing</string>
+	<key>334210</key>
+	<string>Telephone Apparatus Manufacturing</string>
+	<key>334220</key>
+	<string>Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</string>
+	<key>334290</key>
+	<string>Other Communications Equipment Manufacturing</string>
+	<key>334310</key>
+	<string>Audio and Video Equipment Manufacturing</string>
+	<key>334411</key>
+	<string>Electron Tube Manufacturing</string>
+	<key>334412</key>
+	<string>Bare Printed Circuit Board Manufacturing</string>
+	<key>334413</key>
+	<string>Semiconductor and Related Device Manufacturing</string>
+	<key>334414</key>
+	<string>Electronic Capacitor Manufacturing</string>
+	<key>334415</key>
+	<string>Electronic Resistor Manufacturing</string>
+	<key>334416  </key>
+	<string>Electronic Coil, Transformer, and Other Inductor Manufacturing</string>
+	<key>334417</key>
+	<string>Electronic Connector Manufacturing</string>
+	<key>334418</key>
+	<string>Printed Circuit Assembly (Electronic Assembly) Manufacturing</string>
+	<key>334419</key>
+	<string>Other Electronic Component Manufacturing</string>
+	<key>334510</key>
+	<string>Electromedical and Electrotherapeutic Apparatus Manufacturing</string>
+	<key>334511  </key>
+	<string>Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing</string>
+	<key>334512  </key>
+	<string>Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use</string>
+	<key>334513 </key>
+	<string> Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables</string>
+	<key>334514</key>
+	<string>Totalizing Fluid Meter and Counting Device Manufacturing</string>
+	<key>334515</key>
+	<string>Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals</string>
+	<key>334516</key>
+	<string>Analytical Laboratory Instrument Manufacturing</string>
+	<key>334517</key>
+	<string>Irradiation Apparatus Manufacturing</string>
+	<key>334518  </key>
+	<string>Watch, Clock, and Part Manufacturing</string>
+	<key>334519</key>
+	<string>Other Measuring and Controlling Device Manufacturing</string>
+	<key>334611</key>
+	<string>Software Reproducing</string>
+	<key>334612  </key>
+	<string>Prerecorded Compact Disc (except Software), Tape, and Record Reproducing</string>
+	<key>334613</key>
+	<string>Magnetic and Optical Recording Media Manufacturing</string>
+	<key>335110</key>
+	<string>Electric Lamp Bulb and Part Manufacturing</string>
+	<key>335121</key>
+	<string>Residential Electric Lighting Fixture Manufacturing</string>
+	<key>335122  </key>
+	<string>Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing</string>
+	<key>335129</key>
+	<string>Other Lighting Equipment Manufacturing</string>
+	<key>335211</key>
+	<string>Electric Housewares and Household Fan Manufacturing</string>
+	<key>335212</key>
+	<string>Household Vacuum Cleaner Manufacturing</string>
+	<key>335221</key>
+	<string>Household Cooking Appliance Manufacturing</string>
+	<key>335222</key>
+	<string>Household Refrigerator and Home Freezer Manufacturing</string>
+	<key>335224</key>
+	<string>Household Laundry Equipment Manufacturing</string>
+	<key>335228</key>
+	<string>Other Major Household Appliance Manufacturing</string>
+	<key>335311  </key>
+	<string>Power, Distribution, and Specialty Transformer Manufacturing</string>
+	<key>335312</key>
+	<string>Motor and Generator Manufacturing</string>
+	<key>335313</key>
+	<string>Switchgear and Switchboard Apparatus Manufacturing</string>
+	<key>335314</key>
+	<string>Relay and Industrial Control Manufacturing</string>
+	<key>335911</key>
+	<string>Storage Battery Manufacturing</string>
+	<key>335912</key>
+	<string>Primary Battery Manufacturing</string>
+	<key>335921</key>
+	<string>Fiber Optic Cable Manufacturing</string>
+	<key>335929</key>
+	<string>Other Communication and Energy Wire Manufacturing</string>
+	<key>335931</key>
+	<string>Current-Carrying Wiring Device Manufacturing</string>
+	<key>335932</key>
+	<string>Noncurrent-Carrying Wiring Device Manufacturing</string>
+	<key>335991</key>
+	<string>Carbon and Graphite Product Manufacturing</string>
+	<key>335999</key>
+	<string>All Other Miscellaneous Electrical Equipment and Component Manufacturing</string>
+	<key>336111</key>
+	<string>Automobile Manufacturing</string>
+	<key>336112</key>
+	<string>Light Truck and Utility Vehicle Manufacturing</string>
+	<key>336120</key>
+	<string>Heavy Duty Truck Manufacturing</string>
+	<key>336211</key>
+	<string>Motor Vehicle Body Manufacturing</string>
+	<key>336212</key>
+	<string>Truck Trailer Manufacturing</string>
+	<key>336213</key>
+	<string>Motor Home Manufacturing</string>
+	<key>336214</key>
+	<string>Travel Trailer and Camper Manufacturing</string>
+	<key>336311  </key>
+	<string>Carburetor, Piston, Piston Ring, and Valve Manufacturing</string>
+	<key>336312</key>
+	<string>Gasoline Engine and Engine Parts Manufacturing</string>
+	<key>336321</key>
+	<string>Vehicular Lighting Equipment Manufacturing</string>
+	<key>336322</key>
+	<string>Other Motor Vehicle Electrical and Electronic Equipment Manufacturing</string>
+	<key>336330</key>
+	<string>Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing</string>
+	<key>336340</key>
+	<string>Motor Vehicle Brake System Manufacturing</string>
+	<key>336350</key>
+	<string>Motor Vehicle Transmission and Power Train Parts Manufacturing</string>
+	<key>336360</key>
+	<string>Motor Vehicle Seating and Interior Trim Manufacturing</string>
+	<key>336370</key>
+	<string>Motor Vehicle Metal Stamping</string>
+	<key>336391</key>
+	<string>Motor Vehicle Air-Conditioning Manufacturing</string>
+	<key>336399</key>
+	<string>All Other Motor Vehicle Parts Manufacturing</string>
+	<key>336411</key>
+	<string>Aircraft Manufacturing</string>
+	<key>336412</key>
+	<string>Aircraft Engine and Engine Parts Manufacturing</string>
+	<key>336413</key>
+	<string>Other Aircraft Parts and Auxiliary Equipment Manufacturing</string>
+	<key>336414</key>
+	<string>Guided Missile and Space Vehicle Manufacturing</string>
+	<key>336415</key>
+	<string>Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing</string>
+	<key>336419</key>
+	<string>Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing</string>
+	<key>336510</key>
+	<string>Railroad Rolling Stock Manufacturing</string>
+	<key>336611</key>
+	<string>Ship Building and Repairing</string>
+	<key>336612</key>
+	<string>Boat Building</string>
+	<key>336991  </key>
+	<string>Motorcycle, Bicycle, and Parts Manufacturing</string>
+	<key>336992  </key>
+	<string>Military Armored Vehicle, Tank, and Tank Component Manufacturing</string>
+	<key>336999</key>
+	<string>All Other Transportation Equipment Manufacturing</string>
+	<key>337110</key>
+	<string>Wood Kitchen Cabinet and Countertop Manufacturing</string>
+	<key>337121</key>
+	<string>Upholstered Household Furniture Manufacturing</string>
+	<key>337122</key>
+	<string>Nonupholstered Wood Household Furniture Manufacturing</string>
+	<key>337124</key>
+	<string>Metal Household Furniture Manufacturing</string>
+	<key>337125</key>
+	<string>Household Furniture (except Wood and Metal) Manufacturing</string>
+	<key>337127</key>
+	<string>Institutional Furniture Manufacturing</string>
+	<key>337129  </key>
+	<string>Wood Television, Radio, and Sewing Machine Cabinet Manufacturing</string>
+	<key>337211</key>
+	<string>Wood Office Furniture Manufacturing</string>
+	<key>337212</key>
+	<string>Custom Architectural Woodwork and Millwork Manufacturing</string>
+	<key>337214</key>
+	<string>Office Furniture (except Wood) Manufacturing</string>
+	<key>337215  </key>
+	<string>Showcase, Partition, Shelving, and Locker Manufacturing</string>
+	<key>337910</key>
+	<string>Mattress Manufacturing</string>
+	<key>337920</key>
+	<string>Blind and Shade Manufacturing</string>
+	<key>339112</key>
+	<string>Surgical and Medical Instrument Manufacturing</string>
+	<key>339113</key>
+	<string>Surgical Appliance and Supplies Manufacturing</string>
+	<key>339114</key>
+	<string>Dental Equipment and Supplies Manufacturing</string>
+	<key>339115</key>
+	<string>Ophthalmic Goods Manufacturing</string>
+	<key>339116</key>
+	<string>Dental Laboratories</string>
+	<key>339911</key>
+	<string>Jewelry (except Costume) Manufacturing</string>
+	<key>339912</key>
+	<string>Silverware and Hollowware Manufacturing</string>
+	<key>339913</key>
+	<string>Jewelers' Material and Lapidary Work Manufacturing</string>
+	<key>339914</key>
+	<string>Costume Jewelry and Novelty Manufacturing</string>
+	<key>339920</key>
+	<string>Sporting and Athletic Goods Manufacturing</string>
+	<key>339931</key>
+	<string>Doll and Stuffed Toy Manufacturing</string>
+	<key>339932  </key>
+	<string>Game, Toy, and Children's Vehicle Manufacturing</string>
+	<key>339941</key>
+	<string>Pen and Mechanical Pencil Manufacturing</string>
+	<key>339942</key>
+	<string>Lead Pencil and Art Good Manufacturing</string>
+	<key>339943</key>
+	<string>Marking Device Manufacturing</string>
+	<key>339944</key>
+	<string>Carbon Paper and Inked Ribbon Manufacturing</string>
+	<key>339950</key>
+	<string>Sign Manufacturing</string>
+	<key>339991  </key>
+	<string>Gasket, Packing, and Sealing Device Manufacturing</string>
+	<key>339992</key>
+	<string>Musical Instrument Manufacturing</string>
+	<key>339993  </key>
+	<string>Fastener, Button, Needle, and Pin Manufacturing</string>
+	<key>339994  </key>
+	<string>Broom, Brush, and Mop Manufacturing</string>
+	<key>339995</key>
+	<string>Burial Casket Manufacturing</string>
+	<key>339999</key>
+	<string>All Other Miscellaneous Manufacturing</string>
+	<key>423110</key>
+	<string>Automobile and Other Motor Vehicle Merchant Wholesalers</string>
+	<key>423120</key>
+	<string>Motor Vehicle Supplies and New Parts Merchant Wholesalers</string>
+	<key>423130</key>
+	<string>Tire and Tube Merchant Wholesalers</string>
+	<key>423140</key>
+	<string>Motor Vehicle Parts (Used) Merchant Wholesalers</string>
+	<key>423210</key>
+	<string>Furniture Merchant Wholesalers</string>
+	<key>423220</key>
+	<string>Home Furnishing Merchant Wholesalers</string>
+	<key>423310  </key>
+	<string>Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers</string>
+	<key>423320  </key>
+	<string>Brick, Stone, and Related Construction Material Merchant Wholesalers</string>
+	<key>423330  </key>
+	<string>Roofing, Siding, and Insulation Material Merchant Wholesalers</string>
+	<key>423390</key>
+	<string>Other Construction Material Merchant Wholesalers</string>
+	<key>423410</key>
+	<string>Photographic Equipment and Supplies Merchant Wholesalers</string>
+	<key>423420</key>
+	<string>Office Equipment Merchant Wholesalers</string>
+	<key>423430</key>
+	<string>Computer and Computer Peripheral Equipment and Software Merchant Wholesalers</string>
+	<key>423440</key>
+	<string>Other Commercial Equipment Merchant Wholesalers</string>
+	<key>423450  </key>
+	<string>Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers</string>
+	<key>423460</key>
+	<string>Ophthalmic Goods Merchant Wholesalers</string>
+	<key>423490</key>
+	<string>Other Professional Equipment and Supplies Merchant Wholesalers</string>
+	<key>423510</key>
+	<string>Metal Service Centers and Other Metal Merchant Wholesalers</string>
+	<key>423520</key>
+	<string>Coal and Other Mineral and Ore Merchant Wholesalers</string>
+	<key>423610  </key>
+	<string>Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant  Wholesalers</string>
+	<key>423620  </key>
+	<string>Electrical and Electronic Appliance, Television, and Radio Set Merchant Wholesalers</string>
+	<key>423690</key>
+	<string>Other Electronic Parts and Equipment Merchant Wholesalers</string>
+	<key>423710</key>
+	<string>Hardware Merchant Wholesalers</string>
+	<key>423720</key>
+	<string>Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers</string>
+	<key>423730</key>
+	<string>Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers</string>
+	<key>423740</key>
+	<string>Refrigeration Equipment and Supplies Merchant Wholesalers</string>
+	<key>423810</key>
+	<string>Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers</string>
+	<key>423820</key>
+	<string>Farm and Garden Machinery and Equipment Merchant Wholesalers</string>
+	<key>423830</key>
+	<string>Industrial Machinery and Equipment Merchant Wholesalers</string>
+	<key>423840</key>
+	<string>Industrial Supplies Merchant Wholesalers</string>
+	<key>423850</key>
+	<string>Service Establishment Equipment and Supplies Merchant Wholesalers</string>
+	<key>423860</key>
+	<string>Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers</string>
+	<key>423910</key>
+	<string>Sporting and Recreational Goods and Supplies Merchant Wholesalers</string>
+	<key>423920</key>
+	<string>Toy and Hobby Goods and Supplies Merchant Wholesalers</string>
+	<key>423930</key>
+	<string>Recyclable Material Merchant Wholesalers</string>
+	<key>423940  </key>
+	<string>Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers</string>
+	<key>423990</key>
+	<string>Other Miscellaneous Durable Goods Merchant Wholesalers</string>
+	<key>424110</key>
+	<string>Printing and Writing Paper Merchant Wholesalers</string>
+	<key>424120</key>
+	<string>Stationery and Office Supplies Merchant Wholesalers</string>
+	<key>424130</key>
+	<string>Industrial and Personal Service Paper Merchant Wholesalers</string>
+	<key>424210</key>
+	<string>Drugs and Druggists' Sundries Merchant Wholesalers</string>
+	<key>424310  </key>
+	<string>Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers</string>
+	<key>424320</key>
+	<string>Men's and Boys' Clothing and Furnishings Merchant Wholesalers</string>
+	<key>424330  </key>
+	<string>Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers</string>
+	<key>424340</key>
+	<string>Footwear Merchant Wholesalers</string>
+	<key>424410</key>
+	<string>General Line Grocery Merchant Wholesalers</string>
+	<key>424420</key>
+	<string>Packaged Frozen Food Merchant Wholesalers</string>
+	<key>424430</key>
+	<string>Dairy Product (except Dried or Canned) Merchant Wholesalers</string>
+	<key>424440</key>
+	<string>Poultry and Poultry Product Merchant Wholesalers</string>
+	<key>424450</key>
+	<string>Confectionery Merchant Wholesalers</string>
+	<key>424460</key>
+	<string>Fish and Seafood Merchant Wholesalers</string>
+	<key>424470</key>
+	<string>Meat and Meat Product Merchant Wholesalers</string>
+	<key>424480</key>
+	<string>Fresh Fruit and Vegetable Merchant Wholesalers</string>
+	<key>424490</key>
+	<string>Other Grocery and Related Products Merchant Wholesalers</string>
+	<key>424510</key>
+	<string>Grain and Field Bean Merchant Wholesalers</string>
+	<key>424520</key>
+	<string>Livestock Merchant Wholesalers</string>
+	<key>424590</key>
+	<string>Other Farm Product Raw Material Merchant Wholesalers</string>
+	<key>424610</key>
+	<string>Plastics Materials and Basic Forms and Shapes Merchant Wholesalers</string>
+	<key>424690</key>
+	<string>Other Chemical and Allied Products Merchant Wholesalers</string>
+	<key>424710</key>
+	<string>Petroleum Bulk Stations and Terminals</string>
+	<key>424720</key>
+	<string>Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)</string>
+	<key>424810</key>
+	<string>Beer and Ale Merchant Wholesalers</string>
+	<key>424820</key>
+	<string>Wine and Distilled Alcoholic Beverage Merchant Wholesalers</string>
+	<key>424910</key>
+	<string>Farm Supplies Merchant Wholesalers</string>
+	<key>424920  </key>
+	<string>Book, Periodical, and Newspaper Merchant Wholesalers</string>
+	<key>424930  </key>
+	<string>Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers</string>
+	<key>424940</key>
+	<string>Tobacco and Tobacco Product Merchant Wholesalers</string>
+	<key>424950  </key>
+	<string>Paint, Varnish, and Supplies Merchant Wholesalers</string>
+	<key>424990</key>
+	<string>Other Miscellaneous Nondurable Goods Merchant Wholesalers</string>
+	<key>425110</key>
+	<string>Business to Business Electronic Markets</string>
+	<key>425120</key>
+	<string>Wholesale Trade Agents and Brokers</string>
+	<key>441110</key>
+	<string>New Car Dealers</string>
+	<key>441120</key>
+	<string>Used Car Dealers</string>
+	<key>441210</key>
+	<string>Recreational Vehicle Dealers</string>
+	<key>441221</key>
+	<string>Motorcycle, ATV, and Personal Watercraft Dealers</string>
+	<key>441222</key>
+	<string>Boat Dealers</string>
+	<key>441229</key>
+	<string>All Other Motor Vehicle Dealers</string>
+	<key>441310</key>
+	<string>Automotive Parts and Accessories Stores</string>
+	<key>441320</key>
+	<string>Tire Dealers</string>
+	<key>442110</key>
+	<string>Furniture Stores</string>
+	<key>442210</key>
+	<string>Floor Covering Stores</string>
+	<key>442291</key>
+	<string>Window Treatment Stores</string>
+	<key>442299</key>
+	<string>All Other Home Furnishings Stores</string>
+	<key>443111</key>
+	<string>Household Appliance Stores</string>
+	<key>443112  </key>
+	<string>Radio, Television, and Other Electronics Stores</string>
+	<key>443120</key>
+	<string>Computer and Software Stores</string>
+	<key>443130</key>
+	<string>Camera and Photographic Supplies Stores</string>
+	<key>444110</key>
+	<string>Home Centers</string>
+	<key>444120</key>
+	<string>Paint and Wallpaper Stores</string>
+	<key>444130</key>
+	<string>Hardware Stores</string>
+	<key>444190</key>
+	<string>Other Building Material Dealers</string>
+	<key>444210</key>
+	<string>Outdoor Power Equipment Stores</string>
+	<key>444220  </key>
+	<string>Nursery, Garden Center, and Farm Supply Stores</string>
+	<key>445110</key>
+	<string>Supermarkets and Other Grocery (except Convenience) Stores</string>
+	<key>445120</key>
+	<string>Convenience Stores</string>
+	<key>445210</key>
+	<string>Meat Markets</string>
+	<key>445220</key>
+	<string>Fish and Seafood Markets</string>
+	<key>445230</key>
+	<string>Fruit and Vegetable Markets</string>
+	<key>445291</key>
+	<string>Baked Goods Stores</string>
+	<key>445292</key>
+	<string>Confectionery and Nut Stores</string>
+	<key>445299</key>
+	<string>All Other Specialty Food Stores</string>
+	<key>445310  </key>
+	<string>Beer, Wine, and Liquor Stores</string>
+	<key>446110</key>
+	<string>Pharmacies and Drug Stores</string>
+	<key>446120  </key>
+	<string>Cosmetics, Beauty Supplies, and Perfume Stores</string>
+	<key>446130</key>
+	<string>Optical Goods Stores</string>
+	<key>446191</key>
+	<string>Food (Health) Supplement Stores</string>
+	<key>446199</key>
+	<string>All Other Health and Personal Care Stores</string>
+	<key>447110</key>
+	<string>Gasoline Stations with Convenience Stores</string>
+	<key>447190</key>
+	<string>Other Gasoline Stations</string>
+	<key>448110</key>
+	<string>Men's Clothing Stores</string>
+	<key>448120</key>
+	<string>Women's Clothing Stores</string>
+	<key>448130</key>
+	<string>Children's and Infants' Clothing Stores</string>
+	<key>448140</key>
+	<string>Family Clothing Stores</string>
+	<key>448150</key>
+	<string>Clothing Accessories Stores</string>
+	<key>448190</key>
+	<string>Other Clothing Stores</string>
+	<key>448210</key>
+	<string>Shoe Stores</string>
+	<key>448310</key>
+	<string>Jewelry Stores</string>
+	<key>448320</key>
+	<string>Luggage and Leather Goods Stores</string>
+	<key>451110</key>
+	<string>Sporting Goods Stores</string>
+	<key>451120  </key>
+	<string>Hobby, Toy, and Game Stores</string>
+	<key>451130  </key>
+	<string>Sewing, Needlework, and Piece Goods Stores</string>
+	<key>451140</key>
+	<string>Musical Instrument and Supplies Stores</string>
+	<key>451211</key>
+	<string>Book Stores</string>
+	<key>451212</key>
+	<string>News Dealers and Newsstands</string>
+	<key>451220  </key>
+	<string>Prerecorded Tape, Compact Disc, and Record Stores</string>
+	<key>452111</key>
+	<string>Department Stores (except Discount Department Stores)</string>
+	<key>452112</key>
+	<string>Discount Department Stores</string>
+	<key>452910</key>
+	<string>Warehouse Clubs and Supercenters</string>
+	<key>452990</key>
+	<string>All Other General Merchandise Stores</string>
+	<key>453110</key>
+	<string>Florists</string>
+	<key>453210</key>
+	<string>Office Supplies and Stationery Stores</string>
+	<key>453220  </key>
+	<string>Gift, Novelty, and Souvenir Stores</string>
+	<key>453310</key>
+	<string>Used Merchandise Stores</string>
+	<key>453910</key>
+	<string>Pet and Pet Supplies Stores</string>
+	<key>453920</key>
+	<string>Art Dealers</string>
+	<key>453930</key>
+	<string>Manufactured (Mobile) Home Dealers</string>
+	<key>453991</key>
+	<string>Tobacco Stores</string>
+	<key>453998</key>
+	<string>All Other Miscellaneous Store Retailers (except Tobacco Stores)</string>
+	<key>454111</key>
+	<string>Electronic Shopping</string>
+	<key>454112</key>
+	<string>Electronic Auctions</string>
+	<key>454113</key>
+	<string>Mail-Order Houses</string>
+	<key>454210</key>
+	<string>Vending Machine Operators</string>
+	<key>454311</key>
+	<string>Heating Oil Dealers</string>
+	<key>454312</key>
+	<string>Liquefied Petroleum Gas (Bottled Gas) Dealers</string>
+	<key>454319</key>
+	<string>Other Fuel Dealers</string>
+	<key>454390</key>
+	<string>Other Direct Selling Establishments</string>
+	<key>481111</key>
+	<string>Scheduled Passenger Air Transportation</string>
+	<key>481112</key>
+	<string>Scheduled Freight Air Transportation</string>
+	<key>481211</key>
+	<string>Nonscheduled Chartered Passenger Air Transportation</string>
+	<key>481212</key>
+	<string>Nonscheduled Chartered Freight Air Transportation</string>
+	<key>481219</key>
+	<string>Other Nonscheduled Air Transportation</string>
+	<key>482111</key>
+	<string>Line-Haul Railroads</string>
+	<key>482112</key>
+	<string>Short Line Railroads</string>
+	<key>483111</key>
+	<string>Deep Sea Freight Transportation</string>
+	<key>483112</key>
+	<string>Deep Sea Passenger Transportation</string>
+	<key>483113</key>
+	<string>Coastal and Great Lakes Freight Transportation</string>
+	<key>483114</key>
+	<string>Coastal and Great Lakes Passenger Transportation</string>
+	<key>483211</key>
+	<string>Inland Water Freight Transportation</string>
+	<key>483212</key>
+	<string>Inland Water Passenger Transportation</string>
+	<key>484110  </key>
+	<string>General Freight Trucking, Local</string>
+	<key>484121  </key>
+	<string>General Freight Trucking, Long-Distance, Truckload</string>
+	<key>484122  </key>
+	<string>General Freight Trucking, Long-Distance, Less Than Truckload</string>
+	<key>484210</key>
+	<string>Used Household and Office Goods Moving</string>
+	<key>484220  </key>
+	<string>Specialized Freight (except Used Goods) Trucking, Local</string>
+	<key>484230  </key>
+	<string>Specialized Freight (except Used Goods) Trucking, Long-Distance</string>
+	<key>485111</key>
+	<string>Mixed Mode Transit Systems</string>
+	<key>485112</key>
+	<string>Commuter Rail Systems</string>
+	<key>485113</key>
+	<string>Bus and Other Motor Vehicle Transit Systems</string>
+	<key>485119</key>
+	<string>Other Urban Transit Systems</string>
+	<key>485210</key>
+	<string>Interurban and Rural Bus Transportation</string>
+	<key>485310</key>
+	<string>Taxi Service</string>
+	<key>485320</key>
+	<string>Limousine Service</string>
+	<key>485410</key>
+	<string>School and Employee Bus Transportation</string>
+	<key>485510</key>
+	<string>Charter Bus Industry</string>
+	<key>485991</key>
+	<string>Special Needs Transportation</string>
+	<key>485999</key>
+	<string>All Other Transit and Ground Passenger Transportation</string>
+	<key>486110</key>
+	<string>Pipeline Transportation of Crude Oil</string>
+	<key>486210</key>
+	<string>Pipeline Transportation of Natural Gas</string>
+	<key>486910</key>
+	<string>Pipeline Transportation of Refined Petroleum Products</string>
+	<key>486990</key>
+	<string>All Other Pipeline Transportation</string>
+	<key>487110  </key>
+	<string>Scenic and Sightseeing Transportation, Land</string>
+	<key>487210  </key>
+	<string>Scenic and Sightseeing Transportation, Water</string>
+	<key>487990  </key>
+	<string>Scenic and Sightseeing Transportation, Other</string>
+	<key>488111</key>
+	<string>Air Traffic Control</string>
+	<key>488119</key>
+	<string>Other Airport Operations</string>
+	<key>488190</key>
+	<string>Other Support Activities for Air Transportation</string>
+	<key>488210</key>
+	<string>Support Activities for Rail Transportation</string>
+	<key>488310</key>
+	<string>Port and Harbor Operations</string>
+	<key>488320</key>
+	<string>Marine Cargo Handling</string>
+	<key>488330</key>
+	<string>Navigational Services to Shipping</string>
+	<key>488390</key>
+	<string>Other Support Activities for Water Transportation</string>
+	<key>488410</key>
+	<string>Motor Vehicle Towing</string>
+	<key>488490</key>
+	<string>Other Support Activities for Road Transportation</string>
+	<key>488510</key>
+	<string>Freight Transportation Arrangement</string>
+	<key>488991</key>
+	<string>Packing and Crating</string>
+	<key>488999</key>
+	<string>All Other Support Activities for Transportation</string>
+	<key>491110</key>
+	<string>Postal Service</string>
+	<key>492110</key>
+	<string>Couriers and Express Delivery Services</string>
+	<key>492210</key>
+	<string>Local Messengers and Local Delivery</string>
+	<key>493110</key>
+	<string>General Warehousing and Storage</string>
+	<key>493120</key>
+	<string>Refrigerated Warehousing and Storage</string>
+	<key>493130</key>
+	<string>Farm Product Warehousing and Storage</string>
+	<key>493190</key>
+	<string>Other Warehousing and Storage</string>
+	<key>511110</key>
+	<string>Newspaper Publishers</string>
+	<key>511120</key>
+	<string>Periodical Publishers</string>
+	<key>511130</key>
+	<string>Book Publishers</string>
+	<key>511140</key>
+	<string>Directory and Mailing List Publishers</string>
+	<key>511191</key>
+	<string>Greeting Card Publishers</string>
+	<key>511199</key>
+	<string>All Other Publishers</string>
+	<key>511210</key>
+	<string>Software Publishers</string>
+	<key>512110</key>
+	<string>Motion Picture and Video Production</string>
+	<key>512120</key>
+	<string>Motion Picture and Video Distribution</string>
+	<key>512131</key>
+	<string>Motion Picture Theaters (except Drive-Ins)</string>
+	<key>512132</key>
+	<string>Drive-In Motion Picture Theaters</string>
+	<key>512191</key>
+	<string>Teleproduction and Other Postproduction Services</string>
+	<key>512199</key>
+	<string>Other Motion Picture and Video Industries</string>
+	<key>512210</key>
+	<string>Record Production</string>
+	<key>512220</key>
+	<string>Integrated Record Production/Distribution</string>
+	<key>512230</key>
+	<string>Music Publishers</string>
+	<key>512240</key>
+	<string>Sound Recording Studios</string>
+	<key>512290</key>
+	<string>Other Sound Recording Industries</string>
+	<key>515111</key>
+	<string>Radio Networks</string>
+	<key>515112</key>
+	<string>Radio Stations</string>
+	<key>515120</key>
+	<string>Television Broadcasting</string>
+	<key>515210</key>
+	<string>Cable and Other Subscription Programming</string>
+	<key>517110</key>
+	<string>Wired Telecommunications Carriers</string>
+	<key>517210</key>
+	<string>Wireless Telecommunications Carriers (except Satellite)</string>
+	<key>517410</key>
+	<string>Satellite Telecommunications</string>
+	<key>517911</key>
+	<string>Telecommunications Resellers</string>
+	<key>517919</key>
+	<string>All Other Telecommunications</string>
+	<key>518210  </key>
+	<string>Data Processing, Hosting, and Related Services</string>
+	<key>519110</key>
+	<string>News Syndicates</string>
+	<key>519120</key>
+	<string>Libraries and Archives</string>
+	<key>519130</key>
+	<string>Internet Publishing and Broadcasting and Web Search Portals</string>
+	<key>519190</key>
+	<string>All Other Information Services</string>
+	<key>521110</key>
+	<string>Monetary Authorities - Central Bank</string>
+	<key>522110</key>
+	<string>Commercial Banking</string>
+	<key>522120</key>
+	<string>Savings Institutions</string>
+	<key>522130</key>
+	<string>Credit Unions</string>
+	<key>522190</key>
+	<string>Other Depository Credit Intermediation</string>
+	<key>522210</key>
+	<string>Credit Card Issuing</string>
+	<key>522220</key>
+	<string>Sales Financing</string>
+	<key>522291</key>
+	<string>Consumer Lending</string>
+	<key>522292</key>
+	<string>Real Estate Credit</string>
+	<key>522293</key>
+	<string>International Trade Financing</string>
+	<key>522294</key>
+	<string>Secondary Market Financing</string>
+	<key>522298</key>
+	<string>All Other Nondepository Credit Intermediation</string>
+	<key>522310</key>
+	<string>Mortgage and Nonmortgage Loan Brokers</string>
+	<key>522320  </key>
+	<string>Financial Transactions Processing, Reserve, and Clearinghouse Activities</string>
+	<key>522390</key>
+	<string>Other Activities Related to Credit Intermediation</string>
+	<key>523110</key>
+	<string>Investment Banking and Securities Dealing</string>
+	<key>523120</key>
+	<string>Securities Brokerage</string>
+	<key>523130</key>
+	<string>Commodity Contracts Dealing</string>
+	<key>523140</key>
+	<string>Commodity Contracts Brokerage</string>
+	<key>523210</key>
+	<string>Securities and Commodity Exchanges</string>
+	<key>523910</key>
+	<string>Miscellaneous Intermediation</string>
+	<key>523920</key>
+	<string>Portfolio Management</string>
+	<key>523930</key>
+	<string>Investment Advice</string>
+	<key>523991  </key>
+	<string>Trust, Fiduciary, and Custody Activities</string>
+	<key>523999</key>
+	<string>Miscellaneous Financial Investment Activities</string>
+	<key>524113</key>
+	<string>Direct Life Insurance Carriers</string>
+	<key>524114</key>
+	<string>Direct Health and Medical Insurance Carriers</string>
+	<key>524126</key>
+	<string>Direct Property and Casualty Insurance Carriers</string>
+	<key>524127</key>
+	<string>Direct Title Insurance Carriers</string>
+	<key>524128 </key>
+	<string> Other Direct Insurance (except Life, Health, and Medical) Carriers</string>
+	<key>524130</key>
+	<string>Reinsurance Carriers</string>
+	<key>524210</key>
+	<string>Insurance Agencies and Brokerages</string>
+	<key>524291</key>
+	<string>Claims Adjusting</string>
+	<key>524292</key>
+	<string>Third Party Administration of Insurance and Pension Funds</string>
+	<key>524298</key>
+	<string>All Other Insurance Related Activities</string>
+	<key>525110</key>
+	<string>Pension Funds</string>
+	<key>525120</key>
+	<string>Health and Welfare Funds</string>
+	<key>525190</key>
+	<string>Other Insurance Funds</string>
+	<key>525910</key>
+	<string>Open-End Investment Funds</string>
+	<key>525920  </key>
+	<string>Trusts, Estates, and Agency Accounts</string>
+	<key>525990</key>
+	<string>Other Financial Vehicles</string>
+	<key>531110</key>
+	<string>Lessors of Residential Buildings and Dwellings</string>
+	<key>531120</key>
+	<string>Lessors of Nonresidential Buildings (except Miniwarehouses)</string>
+	<key>531130</key>
+	<string>Lessors of Miniwarehouses and Self-Storage Units</string>
+	<key>531190</key>
+	<string>Lessors of Other Real Estate Property</string>
+	<key>531210</key>
+	<string>Offices of Real Estate Agents and Brokers</string>
+	<key>531311</key>
+	<string>Residential Property Managers</string>
+	<key>531312</key>
+	<string>Nonresidential Property Managers</string>
+	<key>531320</key>
+	<string>Offices of Real Estate Appraisers</string>
+	<key>531390</key>
+	<string>Other Activities Related to Real Estate</string>
+	<key>532111</key>
+	<string>Passenger Car Rental</string>
+	<key>532112</key>
+	<string>Passenger Car Leasing</string>
+	<key>532120  </key>
+	<string>Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing</string>
+	<key>532210</key>
+	<string>Consumer Electronics and Appliances Rental</string>
+	<key>532220</key>
+	<string>Formal Wear and Costume Rental</string>
+	<key>532230</key>
+	<string>Video Tape and Disc Rental</string>
+	<key>532291</key>
+	<string>Home Health Equipment Rental</string>
+	<key>532292</key>
+	<string>Recreational Goods Rental</string>
+	<key>532299</key>
+	<string>All Other Consumer Goods Rental</string>
+	<key>532310</key>
+	<string>General Rental Centers</string>
+	<key>532411  </key>
+	<string>Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing</string>
+	<key>532412  </key>
+	<string>Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing</string>
+	<key>532420</key>
+	<string>Office Machinery and Equipment Rental and Leasing</string>
+	<key>532490</key>
+	<string>Other Commercial and Industrial Machinery and Equipment Rental and Leasing</string>
+	<key>533110</key>
+	<string>Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)</string>
+	<key>541110</key>
+	<string>Offices of Lawyers</string>
+	<key>541120</key>
+	<string>Offices of Notaries</string>
+	<key>541191</key>
+	<string>Title Abstract and Settlement Offices</string>
+	<key>541199</key>
+	<string>All Other Legal Services</string>
+	<key>541211</key>
+	<string>Offices of Certified Public Accountants</string>
+	<key>541213</key>
+	<string>Tax Preparation Services</string>
+	<key>541214</key>
+	<string>Payroll Services</string>
+	<key>541219</key>
+	<string>Other Accounting Services</string>
+	<key>541310</key>
+	<string>Architectural Services</string>
+	<key>541320</key>
+	<string>Landscape Architectural Services</string>
+	<key>541330</key>
+	<string>Engineering Services</string>
+	<key>541340</key>
+	<string>Drafting Services</string>
+	<key>541350</key>
+	<string>Building Inspection Services</string>
+	<key>541360</key>
+	<string>Geophysical Surveying and Mapping Services</string>
+	<key>541370</key>
+	<string>Surveying and Mapping (except Geophysical) Services</string>
+	<key>541380</key>
+	<string>Testing Laboratories</string>
+	<key>541410</key>
+	<string>Interior Design Services</string>
+	<key>541420</key>
+	<string>Industrial Design Services</string>
+	<key>541430</key>
+	<string>Graphic Design Services</string>
+	<key>541490</key>
+	<string>Other Specialized Design Services</string>
+	<key>541511</key>
+	<string>Custom Computer Programming Services</string>
+	<key>541512</key>
+	<string>Computer Systems Design Services</string>
+	<key>541513</key>
+	<string>Computer Facilities Management Services</string>
+	<key>541519</key>
+	<string>Other Computer Related Services</string>
+	<key>541611</key>
+	<string>Administrative Management and General Management Consulting Services</string>
+	<key>541612</key>
+	<string>Human Resources Consulting Services</string>
+	<key>541613</key>
+	<string>Marketing Consulting Services</string>
+	<key>541614  </key>
+	<string>Process, Physical Distribution, and Logistics Consulting Services</string>
+	<key>541618</key>
+	<string>Other Management Consulting Services</string>
+	<key>541620</key>
+	<string>Environmental Consulting Services</string>
+	<key>541690</key>
+	<string>Other Scientific and Technical Consulting Services</string>
+	<key>541711 </key>
+	<string>Research and Development in Biotechnology</string>
+	<key>541712</key>
+	<string>Reseach and Development in the Physical, Engineering, and Life Sciences (except Biotechnology)</string>
+	<key>541720</key>
+	<string>Research and Development in the Social Sciences and Humanities</string>
+	<key>541810</key>
+	<string>Advertising Agencies</string>
+	<key>541820</key>
+	<string>Public Relations Agencies</string>
+	<key>541830</key>
+	<string>Media Buying Agencies</string>
+	<key>541840</key>
+	<string>Media Representatives</string>
+	<key>541850</key>
+	<string>Display Advertising</string>
+	<key>541860</key>
+	<string>Direct Mail Advertising</string>
+	<key>541870</key>
+	<string>Advertising Material Distribution Services</string>
+	<key>541890</key>
+	<string>Other Services Related to Advertising</string>
+	<key>541910</key>
+	<string>Marketing Research and Public Opinion Polling</string>
+	<key>541921  </key>
+	<string>Photography Studios, Portrait</string>
+	<key>541922</key>
+	<string>Commercial Photography</string>
+	<key>541930</key>
+	<string>Translation and Interpretation Services</string>
+	<key>541940</key>
+	<string>Veterinary Services</string>
+	<key>541990  </key>
+	<string>All Other Professional, Scientific, and Technical Services</string>
+	<key>551111</key>
+	<string>Offices of Bank Holding Companies</string>
+	<key>551112</key>
+	<string>Offices of Other Holding Companies</string>
+	<key>551114  </key>
+	<string>Corporate, Subsidiary, and Regional Managing Offices</string>
+	<key>561110</key>
+	<string>Office Administrative Services</string>
+	<key>561210</key>
+	<string>Facilities Support Services</string>
+	<key>561311</key>
+	<string>Employment Placement Agencies</string>
+	<key>561312</key>
+	<string>Executive Search Services</string>
+	<key>561320</key>
+	<string>Temporary Help Services</string>
+	<key>561330</key>
+	<string>Professional Employer Organizations</string>
+	<key>561410</key>
+	<string>Document Preparation Services</string>
+	<key>561421</key>
+	<string>Telephone Answering Services</string>
+	<key>561422</key>
+	<string>Telemarketing Bureaus and Other Contact Centers</string>
+	<key>561431</key>
+	<string>Private Mail Centers</string>
+	<key>561439</key>
+	<string>Other Business Service Centers (including Copy Shops)</string>
+	<key>561440</key>
+	<string>Collection Agencies</string>
+	<key>561450</key>
+	<string>Credit Bureaus</string>
+	<key>561491</key>
+	<string>Repossession Services</string>
+	<key>561492</key>
+	<string>Court Reporting and Stenotype Services</string>
+	<key>561499</key>
+	<string>All Other Business Support Services</string>
+	<key>561510</key>
+	<string>Travel Agencies</string>
+	<key>561520</key>
+	<string>Tour Operators</string>
+	<key>561591</key>
+	<string>Convention and Visitors Bureaus</string>
+	<key>561599</key>
+	<string>All Other Travel Arrangement and Reservation Services</string>
+	<key>561611</key>
+	<string>Investigation Services</string>
+	<key>561612</key>
+	<string>Security Guards and Patrol Services</string>
+	<key>561613</key>
+	<string>Armored Car Services</string>
+	<key>561621</key>
+	<string>Security Systems Services (except Locksmiths)</string>
+	<key>561622</key>
+	<string>Locksmiths</string>
+	<key>561710</key>
+	<string>Exterminating and Pest Control Services</string>
+	<key>561720</key>
+	<string>Janitorial Services</string>
+	<key>561730</key>
+	<string>Landscaping Services</string>
+	<key>561740</key>
+	<string>Carpet and Upholstery Cleaning Services</string>
+	<key>561790</key>
+	<string>Other Services to Buildings and Dwellings</string>
+	<key>561910</key>
+	<string>Packaging and Labeling Services</string>
+	<key>561920</key>
+	<string>Convention and Trade Show Organizers</string>
+	<key>561990</key>
+	<string>All Other Support Services</string>
+	<key>562111</key>
+	<string>Solid Waste Collection</string>
+	<key>562112</key>
+	<string>Hazardous Waste Collection</string>
+	<key>562119</key>
+	<string>Other Waste Collection</string>
+	<key>562211</key>
+	<string>Hazardous Waste Treatment and Disposal</string>
+	<key>562212</key>
+	<string>Solid Waste Landfill</string>
+	<key>562213</key>
+	<string>Solid Waste Combustors and Incinerators</string>
+	<key>562219</key>
+	<string>Other Nonhazardous Waste Treatment and Disposal</string>
+	<key>562910</key>
+	<string>Remediation Services</string>
+	<key>562920</key>
+	<string>Materials Recovery Facilities</string>
+	<key>562991</key>
+	<string>Septic Tank and Related Services</string>
+	<key>562998</key>
+	<string>All Other Miscellaneous Waste Management Services</string>
+	<key>611110</key>
+	<string>Elementary and Secondary Schools</string>
+	<key>611210</key>
+	<string>Junior Colleges</string>
+	<key>611310  </key>
+	<string>Colleges, Universities, and Professional Schools</string>
+	<key>611410</key>
+	<string>Business and Secretarial Schools</string>
+	<key>611420</key>
+	<string>Computer Training</string>
+	<key>611430</key>
+	<string>Professional and Management Development Training</string>
+	<key>611511</key>
+	<string>Cosmetology and Barber Schools</string>
+	<key>611512</key>
+	<string>Flight Training</string>
+	<key>611513</key>
+	<string>Apprenticeship Training</string>
+	<key>611519</key>
+	<string>Other Technical and Trade Schools</string>
+	<key>611610</key>
+	<string>Fine Arts Schools</string>
+	<key>611620</key>
+	<string>Sports and Recreation Instruction</string>
+	<key>611630</key>
+	<string>Language Schools</string>
+	<key>611691</key>
+	<string>Exam Preparation and Tutoring</string>
+	<key>611692</key>
+	<string>Automobile Driving Schools</string>
+	<key>611699</key>
+	<string>All Other Miscellaneous Schools and Instruction</string>
+	<key>611710</key>
+	<string>Educational Support Services</string>
+	<key>621111</key>
+	<string>Offices of Physicians (except Mental Health Specialists)</string>
+	<key>621112  </key>
+	<string>Offices of Physicians, Mental Health Specialists</string>
+	<key>621210</key>
+	<string>Offices of Dentists</string>
+	<key>621310</key>
+	<string>Offices of Chiropractors</string>
+	<key>621320</key>
+	<string>Offices of Optometrists</string>
+	<key>621330</key>
+	<string>Offices of Mental Health Practitioners (except Physicians)</string>
+	<key>621340  </key>
+	<string>Offices of Physical, Occupational and Speech Therapists, and Audiologists</string>
+	<key>621391</key>
+	<string>Offices of Podiatrists</string>
+	<key>621399</key>
+	<string>Offices of All Other Miscellaneous Health Practitioners</string>
+	<key>621410</key>
+	<string>Family Planning Centers</string>
+	<key>621420</key>
+	<string>Outpatient Mental Health and Substance Abuse Centers</string>
+	<key>621491</key>
+	<string>HMO Medical Centers</string>
+	<key>621492</key>
+	<string>Kidney Dialysis Centers</string>
+	<key>621493</key>
+	<string>Freestanding Ambulatory Surgical and Emergency Centers</string>
+	<key>621498</key>
+	<string>All Other Outpatient Care Centers</string>
+	<key>621511</key>
+	<string>Medical Laboratories</string>
+	<key>621512</key>
+	<string>Diagnostic Imaging Centers</string>
+	<key>621610</key>
+	<string>Home Health Care Services</string>
+	<key>621910</key>
+	<string>Ambulance Services</string>
+	<key>621991</key>
+	<string>Blood and Organ Banks</string>
+	<key>621999</key>
+	<string>All Other Miscellaneous Ambulatory Health Care Services</string>
+	<key>622110</key>
+	<string>General Medical and Surgical Hospitals</string>
+	<key>622210</key>
+	<string>Psychiatric and Substance Abuse Hospitals</string>
+	<key>622310</key>
+	<string>Specialty (except Psychiatric and Substance Abuse) Hospitals</string>
+	<key>623110</key>
+	<string>Nursing Care Facilities</string>
+	<key>623210</key>
+	<string>Residential Mental Retardation Facilities</string>
+	<key>623220</key>
+	<string>Residential Mental Health and Substance Abuse Facilities</string>
+	<key>623311</key>
+	<string>Continuing Care Retirement Communities</string>
+	<key>623312</key>
+	<string>Homes for the Elderly</string>
+	<key>623990</key>
+	<string>Other Residential Care Facilities</string>
+	<key>624110</key>
+	<string>Child and Youth Services</string>
+	<key>624120</key>
+	<string>Services for the Elderly and Persons with Disabilities</string>
+	<key>624190</key>
+	<string>Other Individual and Family Services</string>
+	<key>624210</key>
+	<string>Community Food Services</string>
+	<key>624221</key>
+	<string>Temporary Shelters</string>
+	<key>624229</key>
+	<string>Other Community Housing Services</string>
+	<key>624230</key>
+	<string>Emergency and Other Relief Services</string>
+	<key>624310</key>
+	<string>Vocational Rehabilitation Services</string>
+	<key>624410</key>
+	<string>Child Day Care Services</string>
+	<key>711110</key>
+	<string>Theater Companies and Dinner Theaters</string>
+	<key>711120</key>
+	<string>Dance Companies</string>
+	<key>711130</key>
+	<string>Musical Groups and Artists</string>
+	<key>711190</key>
+	<string>Other Performing Arts Companies</string>
+	<key>711211</key>
+	<string>Sports Teams and Clubs</string>
+	<key>711212</key>
+	<string>Racetracks</string>
+	<key>711219</key>
+	<string>Other Spectator Sports</string>
+	<key>711310  </key>
+	<string>Promoters of Performing Arts, Sports, and Similar Events with Facilities</string>
+	<key>711320  </key>
+	<string>Promoters of Performing Arts, Sports, and Similar Events without Facilities</string>
+	<key>711410  </key>
+	<string>Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures</string>
+	<key>711510 </key>
+	<string> Independent Artists, Writers, and Performers</string>
+	<key>712110</key>
+	<string>Museums</string>
+	<key>712120</key>
+	<string>Historical Sites</string>
+	<key>712130</key>
+	<string>Zoos and Botanical Gardens</string>
+	<key>712190</key>
+	<string>Nature Parks and Other Similar Institutions</string>
+	<key>713110</key>
+	<string>Amusement and Theme Parks</string>
+	<key>713120</key>
+	<string>Amusement Arcades</string>
+	<key>713210</key>
+	<string>Casinos (except Casino Hotels)</string>
+	<key>713290</key>
+	<string>Other Gambling Industries</string>
+	<key>713910</key>
+	<string>Golf Courses and Country Clubs</string>
+	<key>713920</key>
+	<string>Skiing Facilities</string>
+	<key>713930</key>
+	<string>Marinas</string>
+	<key>713940</key>
+	<string>Fitness and Recreational Sports Centers</string>
+	<key>713950</key>
+	<string>Bowling Centers</string>
+	<key>713990</key>
+	<string>All Other Amusement and Recreation Industries</string>
+	<key>721110</key>
+	<string>Hotels (except Casino Hotels) and Motels</string>
+	<key>721120</key>
+	<string>Casino Hotels</string>
+	<key>721191</key>
+	<string>Bed-and-Breakfast Inns</string>
+	<key>721199</key>
+	<string>All Other Traveler Accommodation</string>
+	<key>721211</key>
+	<string>RV (Recreational Vehicle) Parks and Campgrounds</string>
+	<key>721214</key>
+	<string>Recreational and Vacation Camps (except Campgrounds)</string>
+	<key>721310</key>
+	<string>Rooming and Boarding Houses</string>
+	<key>722110</key>
+	<string>Full-Service Restaurants</string>
+	<key>722211</key>
+	<string>Limited-Service Restaurants</string>
+	<key>722212</key>
+	<string>Cafeterias, Grill Buffets, and Buffets</string>
+	<key>722213</key>
+	<string>Snack and Nonalcoholic Beverage Bars</string>
+	<key>722310</key>
+	<string>Food Service Contractors</string>
+	<key>722320</key>
+	<string>Caterers</string>
+	<key>722330</key>
+	<string>Mobile Food Services</string>
+	<key>722410</key>
+	<string>Drinking Places (Alcoholic Beverages)</string>
+	<key>811111</key>
+	<string>General Automotive Repair</string>
+	<key>811112</key>
+	<string>Automotive Exhaust System Repair</string>
+	<key>811113</key>
+	<string>Automotive Transmission Repair</string>
+	<key>811118</key>
+	<string>Other Automotive Mechanical and Electrical Repair and Maintenance</string>
+	<key>811121  </key>
+	<string>Automotive Body, Paint, and Interior Repair and Maintenance</string>
+	<key>811122</key>
+	<string>Automotive Glass Replacement Shops</string>
+	<key>811191</key>
+	<string>Automotive Oil Change and Lubrication Shops</string>
+	<key>811192</key>
+	<string>Car Washes</string>
+	<key>811198</key>
+	<string>All Other Automotive Repair and Maintenance</string>
+	<key>811211</key>
+	<string>Consumer Electronics Repair and Maintenance</string>
+	<key>811212</key>
+	<string>Computer and Office Machine Repair and Maintenance</string>
+	<key>811213</key>
+	<string>Communication Equipment Repair and Maintenance</string>
+	<key>811219</key>
+	<string>Other Electronic and Precision Equipment Repair and Maintenance</string>
+	<key>811310</key>
+	<string>Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance</string>
+	<key>811411</key>
+	<string>Home and Garden Equipment Repair and Maintenance</string>
+	<key>811412</key>
+	<string>Appliance Repair and Maintenance</string>
+	<key>811420</key>
+	<string>Reupholstery and Furniture Repair</string>
+	<key>811430</key>
+	<string>Footwear and Leather Goods Repair</string>
+	<key>811490</key>
+	<string>Other Personal and Household Goods Repair and Maintenance</string>
+	<key>812111</key>
+	<string>Barber Shops</string>
+	<key>812112</key>
+	<string>Beauty Salons</string>
+	<key>812113</key>
+	<string>Nail Salons</string>
+	<key>812191</key>
+	<string>Diet and Weight Reducing Centers</string>
+	<key>812199</key>
+	<string>Other Personal Care Services</string>
+	<key>812210</key>
+	<string>Funeral Homes and Funeral Services</string>
+	<key>812220</key>
+	<string>Cemeteries and Crematories</string>
+	<key>812310</key>
+	<string>Coin-Operated Laundries and Drycleaners</string>
+	<key>812320</key>
+	<string>Drycleaning and Laundry Services (except Coin-Operated)</string>
+	<key>812331</key>
+	<string>Linen Supply</string>
+	<key>812332</key>
+	<string>Industrial Launderers</string>
+	<key>812910</key>
+	<string>Pet Care (except Veterinary) Services</string>
+	<key>812921</key>
+	<string>Photofinishing Laboratories (except One-Hour)</string>
+	<key>812922</key>
+	<string>One-Hour Photofinishing</string>
+	<key>812930</key>
+	<string>Parking Lots and Garages</string>
+	<key>812990</key>
+	<string>All Other Personal Services</string>
+	<key>813110</key>
+	<string>Religious Organizations</string>
+	<key>813211</key>
+	<string>Grantmaking Foundations</string>
+	<key>813212</key>
+	<string>Voluntary Health Organizations</string>
+	<key>813219</key>
+	<string>Other Grantmaking and Giving Services</string>
+	<key>813311</key>
+	<string>Human Rights Organizations</string>
+	<key>813312  </key>
+	<string>Environment, Conservation and Wildlife Organizations</string>
+	<key>813319</key>
+	<string>Other Social Advocacy Organizations</string>
+	<key>813410</key>
+	<string>Civic and Social Organizations</string>
+	<key>813910</key>
+	<string>Business Associations</string>
+	<key>813920</key>
+	<string>Professional Organizations</string>
+	<key>813930</key>
+	<string>Labor Unions and Similar Labor Organizations</string>
+	<key>813940</key>
+	<string>Political Organizations</string>
+	<key>813990  </key>
+	<string>Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)</string>
+	<key>814110</key>
+	<string>Private Households</string>
+	<key>921110</key>
+	<string>Executive Offices</string>
+	<key>921120</key>
+	<string>Legislative Bodies</string>
+	<key>921130</key>
+	<string>Public Finance Activities</string>
+	<key>921140  </key>
+	<string>Executive and Legislative Offices, Combined</string>
+	<key>921150</key>
+	<string>American Indian and Alaska Native Tribal Governments</string>
+	<key>921190</key>
+	<string>Other General Government Support</string>
+	<key>922110</key>
+	<string>Courts</string>
+	<key>922120</key>
+	<string>Police Protection</string>
+	<key>922130</key>
+	<string>Legal Counsel and Prosecution</string>
+	<key>922140</key>
+	<string>Correctional Institutions</string>
+	<key>922150</key>
+	<string>Parole Offices and Probation Offices</string>
+	<key>922160</key>
+	<string>Fire Protection</string>
+	<key>922190  </key>
+	<string>Other Justice, Public Order, and Safety Activities</string>
+	<key>923110</key>
+	<string>Administration of Education Programs</string>
+	<key>923120</key>
+	<string>Administration of Public Health Programs</string>
+	<key>923130  </key>
+	<string>Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)</string>
+	<key>923140</key>
+	<string>Administration of Veterans' Affairs</string>
+	<key>924110</key>
+	<string>Administration of Air and Water Resource and Solid Waste Management Programs</string>
+	<key>924120</key>
+	<string>Administration of Conservation Programs</string>
+	<key>925110</key>
+	<string>Administration of Housing Programs</string>
+	<key>925120</key>
+	<string>Administration of Urban Planning and Community and Rural Development</string>
+	<key>926110</key>
+	<string>Administration of General Economic Programs</string>
+	<key>926120</key>
+	<string>Regulation and Administration of Transportation Programs</string>
+	<key>926130  </key>
+	<string>Regulation and Administration of Communications, Electric, Gas, and Other Utilities</string>
+	<key>926140</key>
+	<string>Regulation of Agricultural Marketing and Commodities</string>
+	<key>926150  </key>
+	<string>Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors</string>
+	<key>927110</key>
+	<string>Space Research and Technology</string>
+	<key>928110</key>
+	<string>National Security</string>
+	<key>928120</key>
+	<string>International Affairs</string>
+</dict>
+</plist>
